@@ -24,3 +24,11 @@ var language = "lox";
 "A
 multiline
 string"
+1
+1001
+030.0
+3.14159
+-5
+-9000
+-1.1
+-600.45
