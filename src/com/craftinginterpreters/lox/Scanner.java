@@ -85,6 +85,11 @@ class Scanner {
         }
         break;
       // TODO: Add multi-line comments. (Chapter 4, challenge 4, https://craftinginterpreters.com/scanning.html#challenges )
+      // TODO: Maybe add bitwise, shift, modulo, or conditional operators
+      // TODO: Maybe add foreach
+      // TODO: Maybe add errors that say which characters in a line are wrong
+      // TODO: Maybe coalesce "invalid character" errors that appear next to each other
+      // TODO: Maybe add escape sequences like "\n"
       case ' ':
       case '\r':
       case '\t':
