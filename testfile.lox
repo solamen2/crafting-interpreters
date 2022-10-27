@@ -21,3 +21,6 @@
 	test
 
 var language = "lox";
+"A
+multiline
+string"
