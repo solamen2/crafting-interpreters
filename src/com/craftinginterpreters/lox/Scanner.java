@@ -80,7 +80,6 @@ class Scanner {
         } else {
           Lox.error(line, "Unexpected character.");
         }
-        Lox.error(line, "Unexpected character.");
         break;
     }
   }
