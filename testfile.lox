@@ -20,7 +20,6 @@
 // I'm a comment!
 	test
 
-var language = "lox";
 "A
 multiline
 string"
@@ -33,3 +32,23 @@ string"
 -9000
 -1.1
 -600.45
+and
+class
+else
+false
+for
+fun
+if
+nil
+or
+print
+return
+super
+this
+true
+var
+while
+an_identifier
+anotherIdentifier
+azAZ_identifier
+var language = "lox";
