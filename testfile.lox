@@ -18,4 +18,6 @@
 >=
 /
 // I'm a comment!
+	test
+
 var language = "lox";
