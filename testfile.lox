@@ -16,4 +16,6 @@
 <=
 >
 >=
+/
+// I'm a comment!
 var language = "lox";
